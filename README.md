@@ -20,12 +20,38 @@ Here's an amazing, modern README with enhanced visual appeal, better organizatio
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🏢 Currently crafting amazing solutions at **Bridgeon**
-- 🌱 Expanding my expertise in **Next.js**, **EF Core**, and **Clean Architecture**
-- 💡 Passionate about building scalable, real-world web applications
-- 🎯 Goal: Creating impactful solutions that make a difference
-- 📫 Let's connect: **muhammedyasars810@gmail.com**
-- ⚡ Fun fact: I turn coffee into code ☕
+<table>
+  <tr>
+    <td>
+      <h3>👨‍💼 Professional</h3>
+      Full-Stack Developer<br/>
+      <b>@ Bridgeon</b>
+    </td>
+    <td>
+      <h3>🎯 Focus</h3>
+      Building scalable<br/>
+      web applications
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>📚 Learning</h3>
+      • Next.js<br/>
+      • EF Core<br/>
+      • Clean Architecture
+    </td>
+    <td>
+      <h3>💭 Philosophy</h3>
+      Code is poetry<br/>
+      in motion
+    </td>
+  </tr>
+</table>
+
+**Let's connect and create something extraordinary!**  
+📧 muhammedyasars810@gmail.com | 💼 [LinkedIn](https://linkedin.com/in/yasar810)
+
+<br clear="both">
 
 <br clear="both">
 
