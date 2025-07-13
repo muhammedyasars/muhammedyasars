@@ -1,113 +1,139 @@
-Absolutely! Here's a polished version of your `README.md` using your code and details. This version includes:
+Here's an amazing, modern README with enhanced visual appeal, better organization, and some creative touches while keeping all your details:
 
-- Clean formatting  
-- Center-aligning key sections  
-- Customizable labels and icons  
-- Optimal spacing for readability  
-- Updated alt tags (for accessibility)
 
----
-
-### ✅ Your Final `README.md`
-
-<h1 align="center">Hi 👋, I'm Muhammed Yasar</h1>
-<h3 align="center">🚀 Full-Stack Developer | React | .NET | Node.js | TypeScript</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammed+Yasar;Full-Stack+Developer+🚀;React+|+.NET+|+Node.js+|+TypeScript" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedyasars&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammedyasars&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/muhammedyasars?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 ---
 
-- 🔭 Currently working at **Bridgeon**
-- 🌱 Currently learning: **Next.js**, **Entity Framework Core**, **Clean Architecture**
-- 💬 Ask me about: Modern JavaScript development, .NET backend, scalable full-stack apps
-- 👨‍💻 Passionate about building real-world applications with modern web technologies
-- 📫 Reach me at: **muhammedyasars810@gmail.com**
+## 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+- 🏢 Currently crafting amazing solutions at **Bridgeon**
+- 🌱 Expanding my expertise in **Next.js**, **EF Core**, and **Clean Architecture**
+- 💡 Passionate about building scalable, real-world web applications
+- 🎯 Goal: Creating impactful solutions that make a difference
+- 📫 Let's connect: **muhammedyasars810@gmail.com**
+- ⚡ Fun fact: I turn coffee into code ☕
 
-<h3 align="left">🌐 Connect With Me</h3>
-<p align="left">
+<br clear="both">
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   <a href="https://linkedin.com/in/yasar810" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/muhammed-yasar" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  <a href="https://www.leetcode.com/muhammed-yasar" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
   </a>
-</p>
-
-
-<h3 align="left">💻 Tech Stack & Tools</h3>
-
-<!-- Frontend -->
-<p align="left">
-  <b>Frontend:</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
-<!-- Backend -->
-<p align="left">
-  <b>Backend:</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <b>Databases:</b><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-</p>
-
-<p align="left">
-  <b>Tools & Platforms:</b><br/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedyasars&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedyasars&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedyasars" alt="GitHub Streak" />
-</p>
-
----
-
-<h3 align="left">🏆 GitHub Trophies</h3>
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammedyasars&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <a href="mailto:muhammedyasars810@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Entity Framework" />
+  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ADO.NET" />
+</p>
+
+### Database Technologies
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+</div>
+
 ---
 
-<p align="center"><em>Thank you for visiting my profile! Feel free to connect or collaborate on cool projects 😊</em></p>
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammedyasars&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedyasars&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedyasars&theme=tokyonight" alt="Streak Stats" />
+</div>
 
 ---
 
-### 🔧 Few Tips for You:
+## 🏆 GitHub Trophies
 
-- **Make sure your GitHub repo is named** exactly `muhammedyasars`, so GitHub uses this `README.md` as your **profile's main readme**.
-- Keep your `README.md` updated when you learn new technologies or work on cool projects.
-- You can add **pinned repositories** to your profile by going to the GitHub profile settings.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammedyasars&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</div>
 
-Let me know if you'd like to include icons with skill counters, a portfolio section, or contributions graph!
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedyasars&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💻 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  
+  ### 💭 Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+
+
