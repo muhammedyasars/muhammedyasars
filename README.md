@@ -25,7 +25,6 @@ Here's an amazing, modern README with enhanced visual appeal, better organizatio
     <td>
       <h3>👨‍💼 Professional</h3>
       Full-Stack Developer<br/>
-      <b>@ Bridgeon</b>
     </td>
     <td>
       <h3>🎯 Focus</h3>
