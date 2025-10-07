@@ -1,27 +1,23 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Muhammed+Yasar;Full-Stack+Developer+🚀;React+%7C+.NET+%7C+Node.js;Building+Scalable+Solutions" alt="Typing SVG" />
-</h1>
+<h1 align="center" hight="20px" width="2000px" >MUHAMMED YASAR S</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" height="10px" alt="Animated Divider"/>
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
+</p>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;.NET+%26+React+Specialist;Microservices+Enthusiast" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammedyasars&label=Profile%20Views&color=00ff88&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/muhammedyasars?label=Followers&style=flat&color=00ff88" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-00ff88?style=flat" alt="Focus" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://linkedin.com/in/yasar810">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:muhammedyasars810@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
   </a>
-  <a href="https://github.com/muhammedyasars">
+  <a href="https://YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=google-chrome&logoColor=white&labelColor=000000&color=ffffff" alt="Portfolio Badge"/>
   </a>
 </div>
@@ -35,17 +31,15 @@
 </p>
 
 <div align="center">
-📍 Based in: <strong>India</strong> | 🎓 <strong>Full-Stack Developer</strong>
+[cite_start]📍 Based in: <strong>Malappuram, Kerala, India</strong> [cite: 6] | [cite_start]🎓 Pursuing <strong>Bachelor of Computer Applications (BCA)</strong> [cite: 31, 32]
 <br>
-💼 Currently: <strong>Open to Full-time Opportunities & Freelancing</strong>
+[cite_start]💼 Currently: <strong>Full Stack Developer at Bridgeon Solutions</strong> [cite: 8]
 <br>
-🎯 Passions: <strong>Coding, Learning New Technologies, Building Scalable Solutions</strong>
+💡 Interests: <strong>Building Microservices, Cloud Deployment, Optimizing Performance</strong>
 </div>
-
 <br>
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" width="100%" height="10px" alt="Animated GIF Banner"/>
+  <img src="https://i.pinimg.com/originals/50/0d/05/500d05bcbc3c80383458ee245122acb8.gif" width="100%" hight="10px" alt="Animated GIF Banner"/>
 </p>
 
 ## 🛠 Tech Stack & Tools
@@ -54,64 +48,85 @@
 <div align="center">
   <img src="https://img.shields.io/badge/%20React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=000000&color=ffffff" alt="React"/>
   <img src="https://img.shields.io/badge/%20Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=ffffff" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/%20TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=000000&color=ffffff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/%20Redux-593D88?style=flat&logo=redux&logoColor=white&labelColor=000000&color=ffffff" alt="Redux"/>
+  <img src="https://img.shields.io/badge/%20JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=ffffff" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/%20HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=000000&color=ffffff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/%20CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=000000&color=ffffff" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/%20Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white&labelColor=000000&color=ffffff" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/%20Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white&labelColor=000000&color=ffffff" alt="Tailwind CSS"/>
 </div>
 
 ### 🔧 Backend & Database
 <div align="center">
-  <img src="https://img.shields.io/badge/%20.NET-512BD4?style=flat&logo=dotnet&logoColor=white&labelColor=000000&color=ffffff" alt=".NET"/>
-  <img src="https://img.shields.io/badge/%20Node.js-339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=000000&color=ffffff" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/%20Express.js-000000?style=flat&logo=express&logoColor=white&labelColor=000000&color=ffffff" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/%20Entity_Framework-512BD4?style=flat&logo=.net&logoColor=white&labelColor=000000&color=ffffff" alt="Entity Framework"/>
-  <img src="https://img.shields.io/badge/%20ADO.NET-512BD4?style=flat&logo=.net&logoColor=white&labelColor=000000&color=ffffff" alt="ADO.NET"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white&labelColor=000000&color=ffffff" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat&logo=dotnet&logoColor=white&labelColor=000000&color=ffffff" alt="Entity Framework Core"/>
+  <img src="https://img.shields.io/badge/SignalR-0E559A?style=flat&logo=dotnet&logoColor=white&labelColor=000000&color=ffffff" alt="SignalR"/>
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=flat&logo=google&logoColor=white&labelColor=000000&color=ffffff" alt="gRPC"/>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&labelColor=000000&color=ffffff" alt="MS SQL Server"/>
   <img src="https://img.shields.io/badge/%20MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=000000&color=ffffff" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/%20MySQL-005C84?style=flat&logo=mysql&logoColor=white&labelColor=000000&color=ffffff" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/%20PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&labelColor=000000&color=ffffff" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/%20SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&labelColor=000000&color=ffffff" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/%20Oracle-F80000?style=flat&logo=oracle&logoColor=white&labelColor=000000&color=ffffff" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/%20PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=000000&color=ffffff" alt="PostgreSQL"/>
 </div>
 
 ### ⚡ Tools & Technologies
 <div align="center">
   <img src="https://img.shields.io/badge/%20Git-F05032?style=flat&logo=git&logoColor=white&labelColor=000000&color=ffffff" alt="Git"/>
   <img src="https://img.shields.io/badge/%20GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=000000&color=ffffff" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/%20VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000&color=ffffff" alt="VS Code"/>
   <img src="https://img.shields.io/badge/%20Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=000000&color=ffffff" alt="Docker"/>
-  <img src="https://img.shields.io/badge/%20Linux-FCC624?style=flat&logo=linux&logoColor=white&labelColor=000000&color=ffffff" alt="Linux"/>
-  <img src="https://img.shields.io/badge/%20Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white&labelColor=000000&color=ffffff" alt="Bash"/>
+  <img src="https://img.shields.io/badge/%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white&labelColor=000000&color=ffffff" alt="AWS"/>
+  <img src="https://img.shields.io/badge/%20Postman-FF6C37?style=flat&logo=postman&logoColor=white&labelColor=000000&color=ffffff" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Microservices-000000?style=flat&logo=docker&logoColor=white&labelColor=000000&color=ffffff" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Agile/Scrum-007ACC?style=flat&logo=jira&logoColor=white&labelColor=000000&color=ffffff" alt="Agile/Scrum"/>
 </div>
 
 ---
-
 ## 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedyasars&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedyasars&layout=compact&theme=gotham" width="41%" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedyasars&theme=gotham" width="90%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gotham" width="41%" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=gotham" width="90%" alt="GitHub Streak"/>
 </div>
-
 ---
 
 ## 🎯 Current Focus
-
 <div align="center">
+<ul>
+  [cite_start]<li>🔥 Building and integrating .NET Core Web APIs for modular applications [cite: 9]</li>
+  [cite_start]<li>🚀 Engineering high-performance frontends with React.js, Next.js, and TypeScript [cite: 9]</li>
+  [cite_start]<li>🛠️ Designing and deploying microservices with Docker and AWS [cite: 14, 27]</li>
+  [cite_start]<li>🔒 Implementing robust security with JWT Authentication and Identity RBAC [cite: 9, 26]</li>
+</ul>
+</div>
 
-```javascript
-const muhammedYasar = {
-    currentRole: "Full-Stack Developer",
-    currentlyLearning: ["Next.js", "Entity Framework Core", "Clean Architecture"],
-    openTo: ["Full-time Roles", "Freelance Projects", "Collaborations"],
-    technologies: {
-        frontend: ["React", "Next.js", "TypeScript", "Redux"],
-        backend: [".NET", "Node.js", "Express.js"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "SQL Server"],
-        tools: ["Git", "Docker", "Linux"]
-    },
-    askMeAbout: ["React", ".NET", "Node.js", "Database Design", "Web Development"]
-};
+---
+
+
+## 📫 Let's Connect & Collaborate
+<div align="center">
+💬 Always open to:
+- New project opportunities & collaborations
+- Technical discussions on .NET, React, and Microservices
+- Challenging full-time developer roles
+- Freelance web development projects
+
+<br>
+
+📧 Reach me via:
+<br>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white&labelColor=000000&color=ffffff" alt="LinkedIn Badge"/>
+</a>
+<a href="mailto:muhammedyasars810@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white&labelColor=000000&color=ffffff" alt="Email Badge"/>
+</a>
+</div>
+<div align="center">
+  
+<br>
+
+⭐ Explore my repos & star your favorites!
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00ff88&style=flat" alt="Profile Views"/>
+</div>
+
+---
+
+<p align="center">
+<em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
+</p>
