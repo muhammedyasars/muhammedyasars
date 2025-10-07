@@ -127,6 +127,7 @@
 
 ---
 
-<p align="center">
-<em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
-</p>
+<div align="center">
+  <h3>💭 Quote of the Day</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</div>
